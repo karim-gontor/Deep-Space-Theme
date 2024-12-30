@@ -12,7 +12,7 @@ Easy to install
 - In vs code go to:  manage > Themes > Color Theme > **deep-space**
     
 
-###Image
+##Image
 
 ![](example-images/deep-space-theme-image.jpg)
 
