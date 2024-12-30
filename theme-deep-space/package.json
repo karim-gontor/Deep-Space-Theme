@@ -1,0 +1,22 @@
+{
+    "name": "deep-space",
+    "displayName": "Deep space color theme",
+    "description": "Deep space color theme",
+    "version": "0.0.1",
+    "publisher": "11093k",
+    "engines": {
+      "vscode": "^1.70.0"
+    },
+    "categories": [
+      "Themes"
+    ],
+    "contributes": {
+      "themes": [
+        {
+          "label": "deep-space",
+          "uiTheme": "vs-dark",
+          "path": "./themes/deep-space.json"
+        }
+      ]
+    }
+  }
